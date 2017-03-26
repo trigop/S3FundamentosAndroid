@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">S3FundamentosAndroid</string>
+    <string name="title">Bienvenido</string>
+    <string name="txt_btn">Entrar</string>
+</resources>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marginBottonTitle">60dp</dimen>
+    <dimen name="marginTopTitle">20dp</dimen>
+    <dimen name="textSizeTitle">40sp</dimen>
+    <dimen name="marginBottonTitleLand">5dp</dimen>
+    <dimen name="marginTopTitleLand">5dp</dimen>
+    <dimen name="textSizeTitleExtraLarge">80sp</dimen>
+    <dimen name="marginTopTitleExtraLarge">40dp</dimen>
+</resources>
